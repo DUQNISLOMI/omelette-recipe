@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    margin: 100px;
+    padding: 30px;
+    text-align: center;
+}
+.box img{
+    width: 70%;
+    height: 50vh;
+    border-radius: 20px;
+}
+.menu{
+    margin-right: 100px;
+    padding: 30px;
+    text-align: center;
+}
+.menu h1{
+    margin: 30px;
+    padding: 20px;
+    font-size: 50px;
+}
+.menu p{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    display: block;
+
+}
+.time{
+    margin-right: 100px;
+    padding: 30px;
+    background: rgb(255 243 252);
+    border-radius: 30px;
+}
+.time h2{
+    margin: 20px;
+    padding: 15px;
+    font-size: 40px;
+    display: flex;
+    color: rgb(170, 11, 11);
+}
+.time ul li{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+    text-align: left;
+}
+.ingredients{
+    margin-right: 100px;
+    padding: 30px;
+}
+.ingredients h2{
+    margin: 20px;
+    padding: 15px;
+    font-size: 40px;
+    display: flex;
+    color: rgb(170, 11, 11);
+}
+.ingredients ul li{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+    text-align: left;
+}
+.line-1{
+    height: 1px;
+    background: gray;
+}
+.instruction{
+    margin-right: 100px;
+    padding: 30px;
+}
+.instruction h2{
+    margin: 20px;
+    padding: 15px;
+    font-size: 40px;
+    display: flex;
+    color: rgb(170, 11, 11);
+}
+.instruction ol li{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+    text-align: left;
+}
+.line-2{
+    height: 1px;
+    background: gray;
+}
+.nutri{
+    margin-right: 100px;
+    padding: 30px;
+}
+.nutri h2{
+    margin: 20px;
+    padding: 15px;
+    font-size: 40px;
+    display: flex;
+    color: rgb(170, 11, 11);
+}
+.table{
+    font-size: 20px;
+    margin-right: 530px;
+}
+.calories{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.carbs{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.protein{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.fat{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.calories span{
+    color: rgb(170, 11, 11);
+}
+.carbs span{
+    color: rgb(170, 11, 11);
+}
+.protein span{
+    color: rgb(170, 11, 11);
+}
+.fat span{
+    color: rgb(170, 11, 11);
+}
+.line-3{
+    height: 1px;
+    background: gray;
+}
+.line-4{
+    height: 1px;
+    background: gray;
+}
+.line-5{
+    height: 1px;
+    background: gray;
+}
